@@ -47,7 +47,7 @@ python -m pip install selenium webdriver-manager
 Abra outro terminal, navegue até a pasta e execute:
 
 ```powershell
-cd "C:\Users\franc\OneDrive\Desktop\youtube Algo"
+cd "C:\Users\*****\OneDrive\Desktop\youtube Algo"
 python youtube_treino.py
 ```
 
